@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://share.cloud-decode.online/2023/05/23/Flask%20Web%E5%BC%80%E5%8F%91%EF%BC%9A%E5%9F%BA%E4%BA%8EPython%E7%9A%84Web%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89/</loc>
+    <loc>https://share.cloud-decode.online/2024/05/30/Flask%20Web%E5%BC%80%E5%8F%91%EF%BC%9A%E5%9F%BA%E4%BA%8EPython%E7%9A%84Web%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89/</loc>
     
     <lastmod>2024-05-30</lastmod>
     
@@ -547,13 +547,6 @@
   </url>
   
   <url>
-    <loc>https://share.cloud-decode.online/tags/Kubernetes/</loc>
-    <lastmod>2024-05-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://share.cloud-decode.online/tags/Kong/</loc>
     <lastmod>2024-05-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -562,6 +555,13 @@
   
   <url>
     <loc>https://share.cloud-decode.online/tags/%E7%BC%96%E7%A8%8B/</loc>
+    <lastmod>2024-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://share.cloud-decode.online/tags/Kubernetes/</loc>
     <lastmod>2024-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
