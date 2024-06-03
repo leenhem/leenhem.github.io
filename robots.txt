@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://share.cloud-decode.online/sitemap.xml
